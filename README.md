@@ -28,7 +28,7 @@ Welcome to check out my recent works on GitHub. Happy Coding!!
 
 ### 📝 Languages and Projects:
 
-<img height="32" src="./assets/cpp.png">
+<code><img height="32" src="./assets/cpp.png">
 <img height="32" src="./assets/java.png">
 <img height="32" src="./assets/python.png">
 <img height="32" src="./assets/html.png">
@@ -36,7 +36,7 @@ Welcome to check out my recent works on GitHub. Happy Coding!!
 <img height="32" src="./assets/javascript.png">
 <img height="32" src="./assets/mysql.png">
 <img height="32" src="./assets/git.png">
-<img height="32" src="./assets/terminal.png">
+<img height="32" src="./assets/terminal.png"></code>
 
 
 ![Yingyao's github stats](https://github-readme-stats.vercel.app/api?username=emilylu123&&hide=prs,issues,contrib&show_icons=true)
