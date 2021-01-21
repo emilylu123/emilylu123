@@ -1,10 +1,12 @@
 # [Yingyao Lu](https://yingyao.xyz) <br/>
-<h2> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! ></h2>
+<h2> <img src="./assets/Hi.gif" width="30px"> Hey, mates <𝚌𝚘𝚍𝚎𝚛𝚜/>! ></h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yingyao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yingyaolu)](https://www.linkedin.com/in/yingyaolu)
+##I am Yingyao Lu. (https://yingyao.xyz) [![Linkedin Badge](https://img.shields.io/badge/-Yingyao&20Lu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yingyaolu)](https://www.linkedin.com/in/yingyaolu)
 [![Gmail Badge](https://img.shields.io/badge/-emilylu123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bajajyash42828@gmail.com)](mailto:emilylu123@gmail.com)
+[![Homepage](https://img.shields.io/badge/Homepage-http://yingyao.codes-success?link=http://yingyao.xyz)](https://yingyao.xyz)
+[![Resume](https://img.shields.io/badge/Resume-Download%20here-blueviolet?link=http://yingyao.codes/Resume2020.pdf)](http://yingyao.codes/Resume2020.pdf)
 
-I am Yingyao Lu ☺️. I'm a ✈️ world traveller,  team player  care giver and an  innovative Software Engineer, currently pursuing Master of Computing and Innovation at the University of Adelaide. <br/>
+I'm a ✈️ world traveller,  team player  care giver and an  innovative Software Engineer, currently pursuing Master of Computing and Innovation at the University of Adelaide. <br/>
 
 I'm passionate about technologies💻 and obsessed with the idea of improving himself and wants to grow and excel in it. I love to explore and learn programming online, and developing ⭐ fun projects to gain some hands-on experiences.
 
@@ -36,14 +38,14 @@ Happy Coding!! Cheers!
 
 ### Hello world!
 - 💬 Homepage: [Yingyao.codes](http://yingyao.codes)
-- 📝 Resume: [Please click here](http://yingyao.codes/Resume2020.pdf)
+- 📝 
+
 
 ![Yingyao's github stats](https://github-readme-stats.vercel.app/api?username=emilylu123&&hide=prs,issues,contrib&show_icons=true&theme=dracula)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilylu123&layout=compact&show_icons=true&theme=dracula)
 
 # Connect with me
 
-| [<img src="./assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/yingyaolu) | [<img src="./assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/emilylu123) | [<img src="./assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/emilylu123/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheDudeThatCode) | [<img src="./assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:emilylu123@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [<img src="./assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/yingyaolu) | [<img src="./assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/emilylu123) | [<img src="./assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/emilylu123/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheDudeThatCode) | [<img src="./assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:emilylu123@gmail.com) |
 
 Cheers!
