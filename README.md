@@ -1,17 +1,18 @@
 # [Yingyao Lu](https://yingyao.xyz) <br/>
-<img src="./assets/coder.gif" width="100px" />
-<h2> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" , fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! ></h2>
+<h2> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! ></h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-YashBajaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-bajaj)](https://www.linkedin.com/in/yingyaolu)
+[![Linkedin Badge](https://img.shields.io/badge/-Yingyao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yingyaolu)](https://www.linkedin.com/in/yingyaolu)
 [![Gmail Badge](https://img.shields.io/badge/-emilylu123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bajajyash42828@gmail.com)](mailto:emilylu123@gmail.com)
 
-I am Yingyao Lu ☺️. I'm a ✈️ world traveller,  team player  care giver and an  innovative Software Engineer, currently pursuing Master of Computing and Innovation at the University of Adelaide. I'm passionate about technologies💻 and obsessed with the idea of improving himself and wants to grow and excel in it. I love to explore and learn programming online, and developing ⭐ fun projects to gain some hands-on experiences.
+I am Yingyao Lu ☺️. I'm a ✈️ world traveller,  team player  care giver and an  innovative Software Engineer, currently pursuing Master of Computing and Innovation at the University of Adelaide. <br/>
+
+I'm passionate about technologies💻 and obsessed with the idea of improving himself and wants to grow and excel in it. I love to explore and learn programming online, and developing ⭐ fun projects to gain some hands-on experiences.
 
 Welcome to check out my recent works on  GitHub.
 
 Happy Coding!! Cheers! 
 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/4KzpjLvJjJknJ5Xuak/giphy.gif?cid=ecf05e47bc041d405b30c21fc58bc0aac1b318a9e2987ab7&rid=giphy.gif" />
+<img align="right" alt="GIF" src="./asserts/queen.gif" width="300px" />
   
 ## ⚡ Technologies
 
@@ -36,13 +37,19 @@ Happy Coding!! Cheers!
 ### Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 - 💬 Ask me about anything an everything.
 - ⚡ Fun fact: Internet users blink less than usual.
-- 📝 Resume: [Resume](Download Resume)
-
-![Yingyao's github stats](https://github-readme-stats.vercel.app/api?username=emilylu123&hide=["issues"]&show_icons=true)
-
-<br/>
-
+- 📝 Resume: [Resume](http://yingyao.codes/Resume2020.pdf)
 <br/>
 Please feel free to clone projects and raise issues if you get any awesome idea.
-<br/>
+
+![Yingyao's github stats](https://github-readme-stats.vercel.app/api?username=emilylu123&&hide=prs,issues,contrib&show_icons=true&theme=dracula)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilylu123&layout=compact&show_icons=true&theme=dracula)
+<a href="https://github.com/emilylu123">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilylu123&layout=compact&show_icons=true&theme=dracula" />
+</a>
+
+# Connect with me
+
+| [<img src="./assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/yingyaolu) | [<img src="./assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/emilylu123) | [<img src="./assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/emilylu123/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheDudeThatCode) | [<img src="./assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:emilylu123@gmail.com)
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
 Cheers!
