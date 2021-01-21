@@ -1,22 +1,23 @@
 # [Yingyao Lu](https://yingyao.xyz) <br/>
-<h2> <img src="./assets/Hi.gif" width="30px"> Hey, mates <𝚌𝚘𝚍𝚎𝚛𝚜/>! ></h2>
 
-##I am Yingyao Lu. (https://yingyao.xyz) [![Linkedin Badge](https://img.shields.io/badge/-Yingyao&20Lu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yingyaolu)](https://www.linkedin.com/in/yingyaolu)
-[![Gmail Badge](https://img.shields.io/badge/-emilylu123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bajajyash42828@gmail.com)](mailto:emilylu123@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Yingyao%20Lu-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yingyaolu)](https://www.linkedin.com/in/yingyaolu)
+[![Gmail Badge](https://img.shields.io/badge/-emilylu123@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:bajajyash42828@gmail.com)](mailto:emilylu123@gmail.com)
 [![Homepage](https://img.shields.io/badge/Homepage-http://yingyao.codes-success?link=http://yingyao.xyz)](https://yingyao.xyz)
 [![Resume](https://img.shields.io/badge/Resume-Download%20here-blueviolet?link=http://yingyao.codes/Resume2020.pdf)](http://yingyao.codes/Resume2020.pdf)
 
-I'm a ✈️ world traveller,  team player  care giver and an  innovative Software Engineer, currently pursuing Master of Computing and Innovation at the University of Adelaide. <br/>
+#### ✈️ World traveller 🤝 team player 💖 care giver / 💻 innovative Software Engineer
 
-I'm passionate about technologies💻 and obsessed with the idea of improving himself and wants to grow and excel in it. I love to explore and learn programming online, and developing ⭐ fun projects to gain some hands-on experiences.
+### 💬 Hey, <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
+ 
+I'm currently pursuing Master of Computing and Innovation at the University of Adelaide. <br/>
+I'm passionate about technologies and obsessed with the idea of improving myself, growing and exceling in it. <br/>
+I love to explore and learn programming online, and developing ⭐ fun projects to gain some hands-on experiences.
 
-Welcome to check out my recent works on  GitHub.
-
-Happy Coding!! Cheers! 
+Welcome to check out my recent works on GitHub. Happy Coding!! 
 
 <img align="right" alt="GIF" src="./assets/queen.gif" width="300px" />
   
-## ⚡ Technologies
+### 💡 Technologies
 
 - Front-end development using **HTML, Javascript,CSS,Bootstrap**
 - Backend development using **NodeJS,ExpressJS**
@@ -24,7 +25,7 @@ Happy Coding!! Cheers!
 - Different projects regarding **Natural Language Processing**
 - Known to database languages like **SQL and MySQL**
 
-**Languages and Tools:**  
+### 📝 Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -36,13 +37,10 @@ Happy Coding!! Cheers!
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-### Hello world!
-- 💬 Homepage: [Yingyao.codes](http://yingyao.codes)
-- 📝 
 
-
-![Yingyao's github stats](https://github-readme-stats.vercel.app/api?username=emilylu123&&hide=prs,issues,contrib&show_icons=true&theme=dracula)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilylu123&layout=compact&show_icons=true&theme=dracula)
+![Yingyao's github stats](https://github-readme-stats.vercel.app/api?username=emilylu123&&hide=prs,issues,contrib&show_icons=true)
+<br/>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilylu123&layout=compact&show_icons=true&langs_count=8)
 
 # Connect with me
 
