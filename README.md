@@ -8,12 +8,14 @@
 
 ### 💬 Hey, <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
  
-I'm currently pursuing Master of Computing and Innovation at the University of Adelaide. <br/>
-I'm passionate about technologies and obsessed with the idea of improving myself, growing and exceling in it. <br/>
+I'm currently pursuing Master of Computing and Innovation at the University of Adelaide.
+
+I'm passionate about technologies and obsessed with the idea of improving myself, growing and exceling in it. 
+
 I love to explore and learn programming online, and developing ⭐ fun projects to gain some hands-on experiences.
 Welcome to check out my recent works on GitHub. Happy Coding!! 
 
-<img align="right" alt="GIF" src="./assets/queen.gif" width="300px" />
+<img align="right" alt="GIF" src="./assets/queen.gif" width="250px" />
   
 ### 💡 Skills and Tools
 - Ability of **Java, C++, Python, Javascript** programming
@@ -26,15 +28,15 @@ Welcome to check out my recent works on GitHub. Happy Coding!!
 
 ### 📝 Languages and Projects:
 
-<code><img height="32" src="./assets/cpp.png"></code>
-<code><img height="32" src="./assets/python.png"></code>
-<code><img height="32" src="./assets/html.png"></code>
-<code><img height="32" src="./assets/css.png"></code>
-<code><img height="32" src="./assets/javascript/javascript.png"></code>
-<code><img height="32" src="./assets/mysql.png"></code>
-<code><img height="32" src="./assets/mongodb.png"></code>
-<code><img height="32" src="./assets/git.png"></code>
-<code><img height="32" src="./assets/terminal.png"></code>
+<img height="32" src="./assets/cpp.png">
+<img height="32" src="./assets/java.png">
+<img height="32" src="./assets/python.png">
+<img height="32" src="./assets/html.png">
+<img height="32" src="./assets/css.png">
+<img height="32" src="./assets/javascript.png">
+<img height="32" src="./assets/mysql.png">
+<img height="32" src="./assets/git.png">
+<img height="32" src="./assets/terminal.png">
 
 
 ![Yingyao's github stats](https://github-readme-stats.vercel.app/api?username=emilylu123&&hide=prs,issues,contrib&show_icons=true)
