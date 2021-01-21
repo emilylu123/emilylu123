@@ -12,7 +12,7 @@ Welcome to check out my recent works on  GitHub.
 
 Happy Coding!! Cheers! 
 
-<img align="right" alt="GIF" src="./asserts/queen.gif" width="300px" />
+<img align="right" alt="GIF" src="./assets/queen.gif" width="300px" />
   
 ## ⚡ Technologies
 
@@ -34,18 +34,12 @@ Happy Coding!! Cheers!
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-### Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-- 💬 Ask me about anything an everything.
-- ⚡ Fun fact: Internet users blink less than usual.
-- 📝 Resume: [Resume](http://yingyao.codes/Resume2020.pdf)
-<br/>
-Please feel free to clone projects and raise issues if you get any awesome idea.
+### Hello world!
+- 💬 Homepage: [Yingyao.codes](http://yingyao.codes)
+- 📝 Resume: [Please click here](http://yingyao.codes/Resume2020.pdf)
 
 ![Yingyao's github stats](https://github-readme-stats.vercel.app/api?username=emilylu123&&hide=prs,issues,contrib&show_icons=true&theme=dracula)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilylu123&layout=compact&show_icons=true&theme=dracula)
-<a href="https://github.com/emilylu123">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilylu123&layout=compact&show_icons=true&theme=dracula" />
-</a>
 
 # Connect with me
 
