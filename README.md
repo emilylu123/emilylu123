@@ -1,4 +1,4 @@
-# [Yingyao Lu](http://yingyao.xyz)
+# [Yingyao.Codes](http://yingyao.codes)
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Yingyao%20Lu-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yingyaolu)](http://www.linkedin.com/in/yingyaolu)
 [![Gmail Badge](https://img.shields.io/badge/-emilylu123@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:bajajyash42828@gmail.com)](mailto:emilylu123@gmail.com)
