@@ -22,7 +22,7 @@ Happy Coding!!
 
 - Ability of **Java, C++, Python, Javascript** programming
 - Front-end development using **HTML, CSS, SASS, Bootstrap**
-- Modern Framework using **Angular, React, Ionic**
+- Modern Framework using **Angular, React**
 - Mobile App Development **Ionic**
 - Implementation of **Machine Learning** algorithms
 - Known to database languages like **SQL and MySQL**
