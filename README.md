@@ -21,12 +21,14 @@ Happy Coding!!
 ### 💡 Skills and Tools
 
 - Ability of **Java, C++, Python, Javascript** programming
-- Front-end development using **HTML, CSS, Javascript, Bootstrap, React**
-- Backend development using **NodeJS,ExpressJS**
+- Front-end development using **HTML, CSS, SASS, Bootstrap**
+- Modern Framework using **Angular, React, Ionic**
+- Mobile App Development **Ionic**
 - Implementation of **Machine Learning** algorithms
 - Known to database languages like **SQL and MySQL**
-- Different projects regarding **Distributed System**
 - Develop and deliver applications with **Agile / Scrum** framework
+- Design Tools **Figma, Axure, Photoshop**
+- Data Visualisation with **Tableau**
 
 ### 📝 Languages and Projects:
 
