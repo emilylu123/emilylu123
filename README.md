@@ -1,9 +1,9 @@
 # [Yingyao.Codes](http://yingyao.codes)
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Yingyao%20Lu-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yingyaolu)](http://www.linkedin.com/in/yingyaolu)
+[![LinkedIn Badge](https://img.shields.io/badge/-Yingyao%20Lu-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilylu123)](http://www.linkedin.com/in/emilylu123)
 [![Gmail Badge](https://img.shields.io/badge/-emilylu123@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:bajajyash42828@gmail.com)](mailto:emilylu123@gmail.com)
 [![Homepage](https://img.shields.io/badge/Homepage-http://yingyao.codes-success?link=http://yingyao.xyz)](http://yingyao.xyz)
-[![Resume](https://img.shields.io/badge/Resume-Download%20here-blueviolet?link=http://yingyao.codes/Resume2020.pdf)](/assets/YingyaoLu2021.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download%20here-blueviolet?link=http://yingyao.codes/YingyaoLuCV.pdf)](/assets/YingyaoLuCV.pdf)
 
 ### ✈️ World traveller 🤝 Team player 💖 Care giver 💻 Innovative Software Engineer
 
