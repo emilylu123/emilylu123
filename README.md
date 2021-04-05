@@ -42,7 +42,7 @@ Happy Coding!!
 <img height="32" src="/assets/css.png">
 <img height="32" src="/assets/javascript.png">
 <img height="32" src="/assets/angular.png">
-<img height="32" src="/assets/ionic.jpg">
+<img height="32" src="/assets/ionic.png">
 <img height="32" src="/assets/mysql.png">
 <img height="32" src="/assets/git.png">
 <img height="32" src="/assets/terminal.png">
