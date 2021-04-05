@@ -20,9 +20,9 @@ Happy Coding!!
 
 ### 💡 Skills and Tools
 
-- Ability of **Java, C++, Python, Javascript** programming
+- Ability of **Java, C#, C++, Python, Javascript** programming
 - Front-end development using **HTML, CSS, SASS, Bootstrap**
-- Modern Framework using **Angular, React**
+- Modern Framework using **Angular, .NET**
 - Mobile App Development **Ionic**
 - Implementation of **Machine Learning** algorithms
 - Known to database languages like **SQL and MySQL**
@@ -32,15 +32,21 @@ Happy Coding!!
 
 ### 📝 Languages and Projects:
 
-<div><img height="32" src="/assets/cpp.png">
+<div>
 <img height="32" src="/assets/java.png">
 <img height="32" src="/assets/python.png">
+<img height="32" src="/assets/cpp.png">
+<img height="32" src="/assets/csharp.png">
+<img height="32" src="/assets/dotnet.png">
 <img height="32" src="/assets/html.png">
 <img height="32" src="/assets/css.png">
 <img height="32" src="/assets/javascript.png">
+<img height="32" src="/assets/angular.png">
+<img height="32" src="/assets/ionic.jpg">
 <img height="32" src="/assets/mysql.png">
 <img height="32" src="/assets/git.png">
-<img height="32" src="/assets/terminal.png"></div>
+<img height="32" src="/assets/terminal.png">
+</div>
 <br/>
 
 <img width='500px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=emilylu123&layout=compact&langs_count=10&show_icons=true&hide=CMake,makefile,css,c'>
