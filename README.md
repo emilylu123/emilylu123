@@ -20,7 +20,7 @@ Happy Coding!!
 
 ### 💡 Skills and Tools
 
-- Ability of **Java, C#, C++, Javascript, Python, Ruby ** programming
+- Ability of **Java, C#, C++, Javascript, Python, Ruby** programming
 - Front-end development using **HTML, CSS, Sass, Bootstrap**
 - Modern Framework using **Angular, React,.NET**
 - Mobile App Development **Ionic**
